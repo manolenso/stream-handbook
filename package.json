@@ -1,0 +1,28 @@
+{
+  "name": "stream-handbook",
+  "version": "0.0.0",
+  "description": "Book Of create stream in node.js",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manolenso/stream-handbook.git"
+  },
+  "author": "substak fork",
+  "license": "Creative commons",
+  "bugs": {
+    "url": "https://github.com/manolenso/stream-handbook/issues"
+  },
+  "homepage": "https://github.com/manolenso/stream-handbook",
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-markdown": "~0.1.2",
+    "gulp-util": "~2.2.14",
+    "gulp-markdown-pdf": "~0.2.0"
+  }
+}
